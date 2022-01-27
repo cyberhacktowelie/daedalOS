@@ -24,7 +24,7 @@
 ### Build & Run
 
 ```
-git clone https://github.com/DustinBrett/daedalOS.git
+git clone https://github.com/cyberhacktowelie/daedalOS.git
 cd daedalOS
 yarn
 yarn build:fs
